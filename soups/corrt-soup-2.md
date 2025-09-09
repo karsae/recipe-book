@@ -1,4 +1,5 @@
-ingredients:
+## Ingredients:
 
-carrots
-cream
+- carrots
+- cream
+- spices
